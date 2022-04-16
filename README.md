@@ -1,1 +1,1 @@
-# Chess-Game
+Run Main.py to load app.
